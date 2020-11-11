@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Robinhood
+
+A simple react client for Robinhood stock trading.
+
+Feel free to show some love & get a free stock by [clicking here](clicking here)!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
