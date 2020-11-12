@@ -5,7 +5,6 @@ import { App } from './views/app'
 
 import '@styles/index.css'
 
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
