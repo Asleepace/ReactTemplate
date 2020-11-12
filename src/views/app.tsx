@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '@app.css'
+import '../assets/css/app.css'
 
 import { View } from '../components'
 

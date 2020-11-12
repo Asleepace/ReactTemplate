@@ -1,15 +1,16 @@
 {
+    "presets":[],
     "plugins": [
         ["babel-plugin-root-import", {
             "paths": [{
                 "rootPathSuffix": "./",
                 "rootPathPrefix": "~/"
             },{
-                "rootPathSuffix": "@/",
+                "rootPathSuffix": "#/",
                 "rootPathPrefix": "./src/assets/css/"
             },{
-                "rootPathSuffix": "#/",
-                "rootPathPrefix": "./src/app/assets"
+                "rootPathSuffix": "@/",
+                "rootPathPrefix": "./src"
             }]
         }]
     ]
